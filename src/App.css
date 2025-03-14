@@ -20,6 +20,14 @@ body {
   transform: scale(1.1);
 }
 
+/* Created By section */
+@media (min-width: 768px) {
+  .card .d-flex.flex-column.flex-md-row {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+}
+
 /* Theme-specific card styles */
 [data-bs-theme="dark"] .card {
   background-color: #2c3034;
