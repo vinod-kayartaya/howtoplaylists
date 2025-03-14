@@ -7,7 +7,8 @@ const Home = () => {
   const [playlists, setPlaylists] = useState([]);
   const [filteredPlaylists, setFilteredPlaylists] = useState([]);
   const [filterText, setFilterText] = useState('');
-  const { /* darkMode */ } = useContext(ThemeContext);
+  // eslint-disable-next-line no-unused-vars
+  const { darkMode } = useContext(ThemeContext);
   const searchInputRef = useRef(null);
 
   useEffect(() => {
