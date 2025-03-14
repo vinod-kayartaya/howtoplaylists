@@ -7,7 +7,7 @@ const Home = () => {
   const [playlists, setPlaylists] = useState([]);
   const [filteredPlaylists, setFilteredPlaylists] = useState([]);
   const [filterText, setFilterText] = useState('');
-  const { darkMode } = useContext(ThemeContext);
+  const { /* darkMode */ } = useContext(ThemeContext);
   const searchInputRef = useRef(null);
 
   useEffect(() => {

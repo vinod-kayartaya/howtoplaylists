@@ -7,7 +7,7 @@ import { ThemeContext } from '../context/ThemeContext';
 const PlaylistDetail = () => {
   const { id } = useParams();
   const [searchParams, setSearchParams] = useSearchParams();
-  const { darkMode } = useContext(ThemeContext);
+  const { /* darkMode */ } = useContext(ThemeContext);
   
   const [playlist, setPlaylist] = useState(null);
   const [selectedVideo, setSelectedVideo] = useState(null);
