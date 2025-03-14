@@ -8,7 +8,16 @@ const Header = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div className="container">
-        <Link className="navbar-brand" to="/">HowTo Playlists</Link>
+        <Link className="navbar-brand d-flex align-items-center" to="/">
+          <img 
+            src="/icons/default-32x32.png" 
+            alt="HowTo Playlists Logo" 
+            width="32" 
+            height="32" 
+            className="me-2" 
+          />
+          HowTo Playlists
+        </Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
