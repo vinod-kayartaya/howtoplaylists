@@ -4049,6 +4049,523 @@
       "tags": [],
       "created": "2025-03-18",
       "lastUpdated": "2025-03-18"
+    },
+    {
+      "id": "PLppgeEzWoI3L2gyNPFpkEx8-TnX4Yib3V",
+      "title": "Unit Testing with NUnit in C# and  NET",
+      "description": "#unittesting #csharp #nunit #automatictest #softwaredeveloper #webdevelopment #aspnetcore #dotnet #dotnetdeveloper",
+      "thumbnail": "https://i.ytimg.com/vi/y-oqTJ6QFLI/hqdefault.jpg",
+      "videos": [
+        {
+          "id": "y-oqTJ6QFLI",
+          "title": "Master Unit Testing in C# & .NET with NUnit - Setting up the Development Environment (Part 2)",
+          "description": "In this video, I'll guide you through the crucial steps to set up your development environment for unit testing with NUnit in C# and .NET using Visual Studio.\nLearn how to configure your code editor, create a well-organized project workspace, and install the essential Nuget packages.\nStay tuned for tips on verifying the setup and troubleshooting common installation issues.\nBy the end of this video, you'll be ready to embark on your unit testing journey.\nDon't forget to subscribe for more valuable tutorials on unit testing, C# programming, and software development\n\nOfficial Visual Studio Download Link:\nhttps://visualstudio.microsoft.com/downloads/\n\n#unittesting #csharp #nunit #automatictest #softwaredeveloper #webdevelopment #aspnetcore #dotnet #dotnetdeveloper #settingupdevelopmentenvironment #settingup #tutorial",
+          "url": "https://www.youtube.com/watch?v=y-oqTJ6QFLI",
+          "thumbnail": "https://i.ytimg.com/vi/y-oqTJ6QFLI/hqdefault.jpg",
+          "duration": "5:50",
+          "uploadDate": "2023-10-21"
+        },
+        {
+          "id": "U9j_HITNqxs",
+          "title": "Master Unit Testing in C# & .NET with NUnit - Introduction (Part 1)",
+          "description": "In this video, we kick off our tutorial series on 'Unit Testing with NUnit in C# and .NET.' Discover why unit testing is crucial in software development, and explore the comprehensive topics we'll cover throughout this series.\nLearn about the tools you'll need and the prerequisites for getting started with unit testing.\nJoin us on this journey to become a more skilled and confident developer as we explore the world of unit testing with NUnit. Don't forget to like, subscribe, and stay tuned for more C# programming and software development tutorials!\n\n#unittesting #csharp #nunit #automatictest #softwaredeveloper #webdevelopment #aspnetcore #dotnet #dotnetdeveloper #tutorial",
+          "url": "https://www.youtube.com/watch?v=U9j_HITNqxs",
+          "thumbnail": "https://i.ytimg.com/vi/U9j_HITNqxs/hqdefault.jpg",
+          "duration": "3:56",
+          "uploadDate": "2023-10-21"
+        },
+        {
+          "id": "fBnTxVK5U9Q",
+          "title": "Master Unit Testing in C# & .NET with NUnit - First Unit Test (Part 3)",
+          "description": "Welcome to Part 3 of our Unit Testing with NUnit in C# and .NET series!\nIn this exciting episode, we're about to take a momentous step – writing our very first unit test.\nLearn how to set up a simple test class, write a basic NUnit test method, and run your tests using the Test Runner. Our action-packed segment will guide you through every step, from creating a test class to understanding test results.\nDon't forget to hit that subscribe button to stay updated with our software development tutorials. Let's get started on your journey to becoming a confident unit tester in C# and .NET. Stay tuned for more in this series, where we'll delve into advanced unit testing techniques and best practices.\nIf you have questions, drop them in the comments – we're here to assist you on your unit testing adventure!\n\nProject Link:\nhttps://github.com/omid-ahmadpour/UnitTest-Tutorial\n\n#unittesting #csharp #nunit #automatictest #softwaredeveloper #webdevelopment #aspnetcore #dotnet #dotnetdeveloper #settingupdevelopmentenvironment #writefirstunittest #tutorial #github",
+          "url": "https://www.youtube.com/watch?v=fBnTxVK5U9Q",
+          "thumbnail": "https://i.ytimg.com/vi/fBnTxVK5U9Q/hqdefault.jpg",
+          "duration": "9:41",
+          "uploadDate": "2023-10-28"
+        },
+        {
+          "id": "hJA1OLDecKY",
+          "title": "Master Unit Testing in C# & .NET with NUnit - Naming Convention (Part 4)",
+          "description": "In Part 4 of our series on mastering Unit Testing in C# and .NET with NUnit, we delve into the crucial topic of 'Naming Convention.' Learn how to effectively name your test methods for clear, self-explanatory code that's a breeze to maintain. Don't miss this essential step on your journey to becoming a Unit Testing pro!\n\nProject Link:\nhttps://github.com/omid-ahmadpour/UnitTest-Tutorial\n\n#namingconvention #unittesting #csharp #nunit #automatictest #softwaredeveloper #webdevelopment #aspnetcore #dotnet #dotnetdeveloper #settingupdevelopmentenvironment #writefirstunittest #tutorial #github",
+          "url": "https://www.youtube.com/watch?v=hJA1OLDecKY",
+          "thumbnail": "https://i.ytimg.com/vi/hJA1OLDecKY/hqdefault.jpg",
+          "duration": "7:35",
+          "uploadDate": "2023-11-04"
+        },
+        {
+          "id": "KmqyBxo4ONg",
+          "title": "Master Unit Testing in C# & .NET with NUnit - Running and Debugging (Part 5)",
+          "description": "In this upcoming episode, our focus will be on enhancing the robustness of our code by crafting additional unit tests for an existing function. By doing so, we aim to ensure the reliability and accuracy of our software. Additionally, we'll delve into the essential practices of debugging and running tests within our development environment. This exploration will provide valuable insights into identifying and addressing any issues that may arise during the testing phase, contributing to the overall quality of our software development process.\n\nSample Project :\nhttps://github.com/omid-ahmadpour/UnitTest-Tutorial\n\n#unittesting #runningunittest #debuggingunittest #csharp #nunit #softwaredeveloper #webdevelopment #aspnetcore #dotnet #dotnetdeveloper #writefirstunittest #tutorial #github #runningtest #debuggingtest",
+          "url": "https://www.youtube.com/watch?v=KmqyBxo4ONg",
+          "thumbnail": "https://i.ytimg.com/vi/KmqyBxo4ONg/hqdefault.jpg",
+          "duration": "12:55",
+          "uploadDate": "2023-11-11"
+        },
+        {
+          "id": "4xzWVGrOi_k",
+          "title": "Master Unit Testing in C# & .NET - When and Who should write unit tests?! (Part 6)",
+          "description": "In this episode of our tutorial series on Unit Testing in C# & .NET with NUnit, we delve into the crucial aspects of unit testing - when and who should write unit tests. We discuss the importance of writing unit tests during the development phase and the roles involved in this process. We also highlight the significance of unit testing in catching bugs early and promoting maintainable code. Lastly, we reflect on the Programmer’s Oath, underscoring the ethical responsibilities of programmers. Join us as we explore these key elements in ensuring robust and reliable software.\n\n#whyunittest #whenunittest #whounittest #programmeroath #whoshouldwriteunittest #unittesting #runningunittest #csharp #nunit #softwaredeveloper #webdevelopment #aspnetcore #dotnetdeveloper #unittesttip #hidenunittesttip",
+          "url": "https://www.youtube.com/watch?v=4xzWVGrOi_k",
+          "thumbnail": "https://i.ytimg.com/vi/4xzWVGrOi_k/hqdefault.jpg",
+          "duration": "6:26",
+          "uploadDate": "2023-12-16"
+        },
+        {
+          "id": "lLclxmG9YxE",
+          "title": "Master Unit Testing in C# & .NET - NUnit Framework (Part 7)",
+          "description": "Explore the cool things you can do with NUnit! Join us as we check out the important features and tricks that make NUnit a great tool for testing. We'll walk you through the basics and show you how to make the most out of NUnit in a way that's easy to understand. Let's dive in and make testing simple and fun!\n\nSample Project :\nhttps://github.com/omid-ahmadpour/UnitTest-Tutorial\n\n#nunitexplore #testingtools #unittests #codecoverage #nunitfeatures #codingtips #testautomation #codingconfidence #codequality #softwaretesting #programming #nunittutorial #devskills #csharp #dotnet",
+          "url": "https://www.youtube.com/watch?v=lLclxmG9YxE",
+          "thumbnail": "https://i.ytimg.com/vi/lLclxmG9YxE/hqdefault.jpg",
+          "duration": "13:31",
+          "uploadDate": "2024-03-06"
+        },
+        {
+          "id": "mrioL2Vc3BU",
+          "title": "Master Unit Testing in C# & .NET - Test Doubles (Part 8)",
+          "description": "In this video, we delve into the world of test doubles—powerful tools that revolutionize unit testing. Discover how mocks, stubs, spies, and fakes can supercharge your testing efforts and ensure robust, reliable code.\n\nJoin us as we explore real-world examples and practical implementations using NUnit and C#.\n\nWhether you're a beginner or seasoned developer, this video equips you with the knowledge and skills to elevate your unit testing game. Say goodbye to testing headaches and hello to cleaner, more maintainable code with test doubles.\n\nDon't miss out—watch now and take your unit testing skills to the next level!\n\nSample Project :\nhttps://github.com/omid-ahmadpour/UnitTest-Tutorial\n\n#TestDoubles #UnitTesting #NUnit #CSharp #SoftwareTesting #Mocking #Stubbing #Spies #Fakes #CodeQuality #DeveloperSkills #TestAutomation #CodingTips #Programming #QualityAssurance",
+          "url": "https://www.youtube.com/watch?v=mrioL2Vc3BU",
+          "thumbnail": "https://i.ytimg.com/vi/mrioL2Vc3BU/hqdefault.jpg",
+          "duration": "11:51",
+          "uploadDate": "2024-04-21"
+        },
+        {
+          "id": "RYi3YXUiF_E",
+          "title": "Master Unit Testing in C# & .NET - The Truth About Unit Tests (Part 9)",
+          "description": "In this episode, we tackle the big question: Do unit tests guarantee the success of your code?\nLearn how unit tests fit into the broader picture of software quality. Discover what else you need to achieve truly reliable and maintainable software.\n\nDon't miss out—watch now and take your unit testing skills to the next level!\n\n#truth #unittestingmyths #UnitTesting #NUnit #CSharp #SoftwareTesting #Mocking #Stubbing #Spies #Fakes #CodeQuality #DeveloperSkills #TestAutomation #CodingTips #Programming #qualityassurance",
+          "url": "https://www.youtube.com/watch?v=RYi3YXUiF_E",
+          "thumbnail": "https://i.ytimg.com/vi/RYi3YXUiF_E/hqdefault.jpg",
+          "duration": "4:13",
+          "uploadDate": "2024-09-28"
+        },
+        {
+          "id": "xjBS7YhNFrU",
+          "title": "Master Unit Testing in C# & .NET - Best Practices (Part 10)",
+          "description": "In this episode, we dive into Unit Testing Best Practices to make your tests more effective!\nthis video covers essential strategies for writing clean, scalable, and maintainable unit tests. If you want to level up your testing game in C# and .NET, this one's for you! \n\nDon't miss out—watch now and take your unit testing skills to the next level!\n\n#bestpractice #unittestingmyths #UnitTesting #NUnit #CSharp #SoftwareTesting #Mocking #Stubbing #Spies #Fakes #CodeQuality #DeveloperSkills #TestAutomation #CodingTips #Programming #qualityassurance",
+          "url": "https://www.youtube.com/watch?v=xjBS7YhNFrU",
+          "thumbnail": "https://i.ytimg.com/vi/xjBS7YhNFrU/hqdefault.jpg",
+          "duration": "5:57",
+          "uploadDate": "2024-10-21"
+        }
+      ],
+      "tags": [],
+      "created": "2025-03-23",
+      "lastUpdated": "2025-03-23"
+    },
+    {
+      "id": "PLhLKc18P9YOCIHOQZ1p1QyF6fKKcz6RJk",
+      "title": "Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions Course Playlist [45 Videos]",
+      "description": "Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions Course Playlist [45 Videos]",
+      "thumbnail": "https://i.ytimg.com/vi/KLl2IJDypYs/hqdefault.jpg",
+      "videos": [
+        {
+          "id": "KLl2IJDypYs",
+          "title": "AZ-400 Exam EP 01: Microsoft DevOps Solutions Course Introduction",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00 ⏩ Introduction\n00:19 ⏩ Instructor Introduction\n00:42 ⏩ DevOps Role\n01:21 ⏩ Study Areas\n01:53 ⏩ Course Agenda\n02:51 ⏩ Lab Preparation\n03:58 ⏩ Exam Basics\n04:58 ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=KLl2IJDypYs",
+          "thumbnail": "https://i.ytimg.com/vi/KLl2IJDypYs/hqdefault.jpg",
+          "duration": "5:26",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "zC_ixIp8zyU",
+          "title": "AZ-400 Exam EP 02: What is DevOps?",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​ ⏩ Introduction\n00:20​ ⏩ DevOps\n00:57​ ⏩ Understand Your Cycle Time\n01:45 ⏩ Strive For Validated Learning\n02:44​ ⏩ Shorten Your Cycle Time\n03:01​ ⏩ Optimize Validated Learning\n03:22​ ⏩ Understanding The DevOps Journey\n03:26​ ⏩ Step 1: Continuous Integration\n03:44 ⏩ Step 2: Continuous Delivery\n03:56​ ⏩ Step 3: Version Control\n04:13 ⏩ Step 4: Agile Planning\n04:38​ ⏩ Step 5: Monitoring And Logging\n05:03​ ⏩ Step 6: Public And Hybrid Clouds\n05:25 ⏩ Step 7: Infrastructure As Code (IaC)\n05:42​ ⏩ Step 8: Microservices Architecture\n06:02​ ⏩ Step 9: Containers\n06:15 ⏩ DevOps May Hurt At First\n06:43​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=zC_ixIp8zyU",
+          "thumbnail": "https://i.ytimg.com/vi/zC_ixIp8zyU/hqdefault.jpg",
+          "duration": "7:09",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "Poi_cXE6zWQ",
+          "title": "AZ-400 Exam EP 03: DevOps Transformation Planning",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:23​​ ⏩ DevOps Transformation Planning\n00:28​​ ⏩ Separating Transformation Teams\n02:41​ ⏩ Defining Shared Goals\n03:34​​ ⏩ Setting Timelines For Goals\n04:57​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=Poi_cXE6zWQ",
+          "thumbnail": "https://i.ytimg.com/vi/Poi_cXE6zWQ/hqdefault.jpg",
+          "duration": "5:23",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "3_tYMRLZufs",
+          "title": "AZ-400 Exam EP 04: DevOps Project Selection",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:31​​ ⏩ Greenfield And Brownfield Projects Defined\n02:08​​ ⏩ Choosing Greenfield Projects\n03:03​ ⏩ Choosing Brownfield Projects\n04:16​​ ⏩ Choosing Systems Of Record\n05:20​​ ⏩ Choosing Systems Of Engagement\n06:32​​ ⏩ Selecting Groups To Minimize Initial Resistance\n07:33​​ ⏩ Ideal Scenarios\n09:09​ ⏩ Identifying Project Metrics And KPIs: Faster Outcomes\n10:27 ⏩ Identifying Project Metrics And KPIs: Efficiency\n11:08​ ⏩ Identifying Project Metrics And KPIs: Quality And Security\n12:32​​ ⏩ Identifying Project Metrics And KPIs: Culture\n13:14 ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=3_tYMRLZufs",
+          "thumbnail": "https://i.ytimg.com/vi/3_tYMRLZufs/hqdefault.jpg",
+          "duration": "13:41",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "gKE4zXWlxMc",
+          "title": "AZ-400 Exam EP 05: DevOps Team Structures",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:27 ⏩ Agile Development Practices Defined: Waterfall Approach\n01:53​​ ⏩ Agile Development Practices Defined: Agile Approach\n03:53​ ⏩ Comparison\n04:46 ⏩ Principles Of Agile Development\n07:16​​ ⏩ Creating Organizational Structures For Agile Practices\n09:17​​ ⏩ Mentoring Team Members On Agile Practices\n11:28 ⏩ Enabling In-Team And Cross-Team Collaboration\n14:37​ ⏩ Selecting Tools And Processes For Agile Practices\n16:32​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=gKE4zXWlxMc",
+          "thumbnail": "https://i.ytimg.com/vi/gKE4zXWlxMc/hqdefault.jpg",
+          "duration": "17:00",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "VG06QBllEYM",
+          "title": "AZ-400 Exam EP 06: What can Azure DevOps do?",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:33 ⏩ What Is Azure DevOps?\n01:54​​ ⏩ What Can Azure DevOps Do?: Azure Boards\n02:49​ ⏩ What Can Azure DevOps Do?: Azure Pipelines\n04:08​​ ⏩ What Can Azure DevOps Do?: Azure Repos\n05:25​​ ⏩ What Can Azure DevOps Do?: Azure Artifacts\n06:12​​ ⏩ What Can Azure DevOps Do?: Azure Test Plans\n07:23​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=VG06QBllEYM",
+          "thumbnail": "https://i.ytimg.com/vi/VG06QBllEYM/hqdefault.jpg",
+          "duration": "7:50",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "lhFNqDY_TUM",
+          "title": "AZ-400 Exam EP 07: Migrating to Azure DevOps",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:31​​ ⏩ What Can GitHub do?\n01:07​​ ⏩ What If You Are Not A Microsoft/ dotnet Organization?\n02:17​ ⏩ Designing An Authorization And Access Strategy For Azure DevOps\n04:51​​ ⏩ Migrating or Integrating Existing Work Management Tools\n06:16​​ ⏩ Migrating or Integrating Existing Test Management Tools\n07:30​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=lhFNqDY_TUM",
+          "thumbnail": "https://i.ytimg.com/vi/lhFNqDY_TUM/hqdefault.jpg",
+          "duration": "7:59",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "s0AzZ6vOsEU",
+          "title": "AZ-400 Exam EP 08: Module 01 Knowledge Check",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:27 ⏩ Question 1\n00:47​​ ⏩ Question 2\n01:22​ ⏩ Question 3\n01:48​​ ⏩ Question 4\n02:06​​ ⏩ Question 5\n02:24​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=s0AzZ6vOsEU",
+          "thumbnail": "https://i.ytimg.com/vi/s0AzZ6vOsEU/hqdefault.jpg",
+          "duration": "2:52",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "KxJXBTIzcX4",
+          "title": "AZ-400 Exam EP 09: What is Source Control?",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:27​​ ⏩ Introduction To Source Control\n02:04​​ ⏩ What Is Source Control?\n03:12 ⏩ Common Software Development Values\n05:19​​ ⏩ Foundational Practices Of DevOps\n06:41​​ ⏩ Benefits Of Source Control\n09:06​​ ⏩ Best Practices Of Source Control\n11:02​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=KxJXBTIzcX4",
+          "thumbnail": "https://i.ytimg.com/vi/KxJXBTIzcX4/hqdefault.jpg",
+          "duration": "11:28",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "lwz7ll1S7Vk",
+          "title": "AZ-400 Exam EP 10: Types of Source Control Systems",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:28​​ ⏩ Centralized Version Control\n01:55​​ ⏩ A Typical Centralized Version Control Workflow\n02:25​ ⏩ Distributed Version Control\n04:18​​ ⏩ Advantages Over Centralized Version Control\n05:29​​ ⏩ Disadvantages Compared To Centralized Version Control\n06:20 ⏩ GIT And TFVC: GIT (Distributed)\n07:05​​ ⏩ GIT And TFVC: TFVC (Centralized)\n08:31​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=lwz7ll1S7Vk",
+          "thumbnail": "https://i.ytimg.com/vi/lwz7ll1S7Vk/hqdefault.jpg",
+          "duration": "8:57",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "kKIPtxT8ta0",
+          "title": "AZ-400 Exam EP 11: Why Git?",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:27​​ ⏩ Community\n01:24​​ ⏩ Distributed Development\n02:43​ ⏩ Trunk-based Development\n03:44​​ ⏩ Pull Requests\n04:46​​ ⏩ Faster Release Cycle\n06:08​​ ⏩ Objections To Using Git\n11:21​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=kKIPtxT8ta0",
+          "thumbnail": "https://i.ytimg.com/vi/kKIPtxT8ta0/hqdefault.jpg",
+          "duration": "11:49",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "vlNJc8R-uDs",
+          "title": "AZ-400 Exam EP 12: Introduction to Azure Repos & GitHub",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:24​​ ⏩ Azure Repos\n00:55​​ ⏩ What Do I Get With Azure Repos?\n03:01 ⏩ What Is GitHub?\n04:10​​ ⏩ Features Of GitHub\n06:40​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=vlNJc8R-uDs",
+          "thumbnail": "https://i.ytimg.com/vi/vlNJc8R-uDs/hqdefault.jpg",
+          "duration": "7:10",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "bJvJ9ZGHAno",
+          "title": "AZ-400 Exam EP 13: Migrating from TFVC to Git",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:24​​ ⏩ Migrating The Tip\n02:00​​ ⏩ Import Repository\n02:23​ ⏩ Authenticating To Your Git Repos\n03:19​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=bJvJ9ZGHAno",
+          "thumbnail": "https://i.ytimg.com/vi/bJvJ9ZGHAno/hqdefault.jpg",
+          "duration": "3:45",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "xWkEaCV7MoA",
+          "title": "AZ-400 Exam EP 14: Module 02 Knowledge Check",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​ ⏩ Introduction\n00:23​​ ⏩ Question 1\n01:07​​ ⏩ Question 2\n01:21 ⏩ Question 3\n01:35 ⏩ Question 4\n01:44 ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=xWkEaCV7MoA",
+          "thumbnail": "https://i.ytimg.com/vi/xWkEaCV7MoA/hqdefault.jpg",
+          "duration": "2:12",
+          "uploadDate": "2021-01-22"
+        },
+        {
+          "id": "CW2xDp9HHkM",
+          "title": "AZ-400 Exam EP 15: How to Structure Your Git Repo?",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:30​ ⏩ Mono vs Multi Repos\n01:10 ⏩ Mono-Repo or Multi-Repo\n03:00​​ ⏩ What Is A Successful Git Branch Workflow?\n03:34​ ⏩ Branching Workflow Types\n05:38​​​ ⏩ Feature Branch Workflow\n06:51​​​ ⏩ Trunk-Based Development- How It Works? : Create A Branch\n08:51​ ⏩ Trunk-Based Development- How It Works? : Add Commits\n10:00​​ ⏩ Trunk-Based Development- How It Works? : Open A Pull Request\n10:51​​​ ⏩ Trunk-Based Development- How It Works? : Discuss And Review Your Code\n11:39​ ⏩ Trunk-Based Development- How It Works? : Deploy\n12:04​​ ⏩ Trunk-Based Development- How It Works? : Merge\n12:39​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=CW2xDp9HHkM",
+          "thumbnail": "https://i.ytimg.com/vi/CW2xDp9HHkM/hqdefault.jpg",
+          "duration": "13:06",
+          "uploadDate": "2021-01-23"
+        },
+        {
+          "id": "Kpb2HN4CJzE",
+          "title": "AZ-400 Exam EP 16: Git Branching Workflows",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:23​ ⏩ Continuous Delivery\n01:02​​​ ⏩ Getting Started\n02:06​​ ⏩ Feature Branches\n02:50​ ⏩ Release Branches\n03:43​​​ ⏩ Forking Workflow\n05:21​​​ ⏩ Collaborating With Pull Requests\n06:49 ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=Kpb2HN4CJzE",
+          "thumbnail": "https://i.ytimg.com/vi/Kpb2HN4CJzE/hqdefault.jpg",
+          "duration": "7:15",
+          "uploadDate": "2021-01-27"
+        },
+        {
+          "id": "xhPiNcLi_34",
+          "title": "AZ-400 Exam EP 17: Why Care About GitHooks",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:23​ ⏩ GitHooks\n01:28​​​ ⏩ Where Do I Start?\n02:55​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=xhPiNcLi_34",
+          "thumbnail": "https://i.ytimg.com/vi/xhPiNcLi_34/hqdefault.jpg",
+          "duration": "3:21",
+          "uploadDate": "2021-01-27"
+        },
+        {
+          "id": "J7RdIqLCuPg",
+          "title": "AZ-400 Exam EP 18: Fostering Inner Source",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:22​ ⏩ Fostering Inner Source\n02:28​​​ ⏩ Implementing The Fork Workflow\n04:19 ⏩ Create The Fork\n05:18​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=J7RdIqLCuPg",
+          "thumbnail": "https://i.ytimg.com/vi/J7RdIqLCuPg/hqdefault.jpg",
+          "duration": "5:45",
+          "uploadDate": "2021-01-27"
+        },
+        {
+          "id": "3btTtA5kHFY",
+          "title": "AZ-400 Exam EP 19: Module 03 Knowledge Check",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:23​ ⏩ Question 1\n00:38​​​ ⏩ Question 2\n00:51​​ ⏩ Question 3\n01:15​ ⏩ Question 4\n01:54​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=3btTtA5kHFY",
+          "thumbnail": "https://i.ytimg.com/vi/3btTtA5kHFY/hqdefault.jpg",
+          "duration": "2:22",
+          "uploadDate": "2021-01-27"
+        },
+        {
+          "id": "DUSXqyCDOo0",
+          "title": "AZ-400 Exam EP 20: Packaging Dependencies",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:30 ⏩ What Is Dependency Management?\n02:02​​​ ⏩ Elements Of A Dependency Management Strategy\n03:25​​ ⏩ Identifying Dependencies\n04:22​ ⏩ Source And Package Componentization\n05:24​​​ ⏩ Decompose Your System\n06:53​​​ ⏩ Scanning Your Codebase For Dependencies\n09:19​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=DUSXqyCDOo0",
+          "thumbnail": "https://i.ytimg.com/vi/DUSXqyCDOo0/hqdefault.jpg",
+          "duration": "9:45",
+          "uploadDate": "2021-01-27"
+        },
+        {
+          "id": "0EUSHeaMud4",
+          "title": "AZ-400 Exam EP 21: Package Management",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:25​ ⏩ What Is A Package?\n01:18​​​ ⏩ Types Of Packages\n03:05​​ ⏩ Package Feed Managers\n04:28 ⏩ Package Sources\n04:49​​​ ⏩ Common Public Package Sources\n05:36 ⏩ Self-Hosted And SaaS Based Package Sources\n06:40​ ⏩ Consuming Packages\n08:13 ⏩ Azure Artifacts\n09:20 ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=0EUSHeaMud4",
+          "thumbnail": "https://i.ytimg.com/vi/0EUSHeaMud4/hqdefault.jpg",
+          "duration": "9:47",
+          "uploadDate": "2021-01-27"
+        },
+        {
+          "id": "eIfIeHsjBDQ",
+          "title": "AZ-400 Exam EP 22: Module 04 Knowledge Check",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:19​ ⏩ Question 1\n00:33 ⏩ Question 2\n00:41 ⏩ Question 3\n00:50​ ⏩ Question 4\n01:01​​​ ⏩ Question 5\n01:15​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=eIfIeHsjBDQ",
+          "thumbnail": "https://i.ytimg.com/vi/eIfIeHsjBDQ/hqdefault.jpg",
+          "duration": "1:43",
+          "uploadDate": "2021-01-27"
+        },
+        {
+          "id": "yqjRHXXUgas",
+          "title": "AZ-400 Exam EP 23: DevOps Azure Pipelines",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:31​ ⏩ The Concept Of Pipelines In DevOps\n03:22 ⏩ Your Pipeline Needs...\n04:37 ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=yqjRHXXUgas",
+          "thumbnail": "https://i.ytimg.com/vi/yqjRHXXUgas/hqdefault.jpg",
+          "duration": "5:02",
+          "uploadDate": "2021-01-28"
+        },
+        {
+          "id": "ir_y1-qrNp4",
+          "title": "AZ-400 Exam EP 24: Azure Pipelines",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:33​ ⏩ Azure Pipelines\n01:02​​​ ⏩ Does Azure Pipelines Work With My Language And Tools?\n02:52​​ ⏩ Use CI And CD For Your Project\n04:08 ⏩ Azure Pipelines Key Terms\n08:58​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=ir_y1-qrNp4",
+          "thumbnail": "https://i.ytimg.com/vi/ir_y1-qrNp4/hqdefault.jpg",
+          "duration": "9:27",
+          "uploadDate": "2021-01-28"
+        },
+        {
+          "id": "wuhj4uWWSvA",
+          "title": "AZ-400 Exam EP 25: Microsoft vs Self-Hosted Agents",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:30 ⏩ Microsoft vs Self-Hosted Agents\n00:57 ⏩ Two Types Of Agents\n02:29 ⏩ Agent Pools\n03:40 ⏩ Predefined Agent Pool \n04:11​ ⏩ Typical Situations For Agent Pools\n05:02​​​ ⏩ Security Of Agent Pools\n06:03​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=wuhj4uWWSvA",
+          "thumbnail": "https://i.ytimg.com/vi/wuhj4uWWSvA/hqdefault.jpg",
+          "duration": "6:29",
+          "uploadDate": "2021-01-28"
+        },
+        {
+          "id": "rfFnohUulOA",
+          "title": "AZ-400 Exam EP 26: Pipelines and Concurrency",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:31​ ⏩ Microsoft-Hosted vs Self-Hosted\n02:48 ⏩ Parallel Jobs\n03:25​​ ⏩ Estimating Parallel Jobs\n04:16​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=rfFnohUulOA",
+          "thumbnail": "https://i.ytimg.com/vi/rfFnohUulOA/hqdefault.jpg",
+          "duration": "4:43",
+          "uploadDate": "2021-02-04"
+        },
+        {
+          "id": "SYcoDcRXzYc",
+          "title": "AZ-400 Exam EP 27: Azure DevOps and Open Source projects",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:32​ ⏩ Azure DevOps And Open-Source Projects\n05:42​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=SYcoDcRXzYc",
+          "thumbnail": "https://i.ytimg.com/vi/SYcoDcRXzYc/hqdefault.jpg",
+          "duration": "6:10",
+          "uploadDate": "2021-02-04"
+        },
+        {
+          "id": "Hiz2mhaqCeQ",
+          "title": "AZ-400 Exam EP 28: Azure Pipelines YAML vs Visual Designer",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:31​ ⏩ Use Azure Pipelines With YAML\n02:10​​​ ⏩ Azure Pipelines And Visual Designer\n03:29​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=Hiz2mhaqCeQ",
+          "thumbnail": "https://i.ytimg.com/vi/Hiz2mhaqCeQ/hqdefault.jpg",
+          "duration": "3:53",
+          "uploadDate": "2021-02-04"
+        },
+        {
+          "id": "7AQwgPvvX28",
+          "title": "AZ-400 Exam EP 29: Continuous Integration Overview",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:28​ ⏩ Introduction To Continuous Integration\n02:07​​​ ⏩ The Four Pillars Of Continuous Integration\n03:41​​ ⏩ Benefits Of Continuous Integration\n04:46​ ⏩ Build Number Formatting\n05:05​​​ ⏩ Build Status\n05:22​​​ ⏩ Build Authorizations Timeouts\n05:43 ⏩ Build Badges\n06:00​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=7AQwgPvvX28",
+          "thumbnail": "https://i.ytimg.com/vi/7AQwgPvvX28/hqdefault.jpg",
+          "duration": "6:26",
+          "uploadDate": "2021-02-04"
+        },
+        {
+          "id": "Qn3EwMVi7j8",
+          "title": "AZ-400 Exam EP 30: Implementing a Build Strategy",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:25​ ⏩ Configuring Agent Demands\n01:15 ⏩ Multiple Jobs In A Pipeline\n02:10​​ ⏩ Parallel Jobs \n02:49​​​ ⏩ What's Next\n\n#AGuideToCloud​ #AZ400​ #MicrosoftAzureDevOps​ #Exam​ #Certifications​ #Microsoft​",
+          "url": "https://www.youtube.com/watch?v=Qn3EwMVi7j8",
+          "thumbnail": "https://i.ytimg.com/vi/Qn3EwMVi7j8/hqdefault.jpg",
+          "duration": "3:16",
+          "uploadDate": "2021-02-04"
+        },
+        {
+          "id": "YBLI26SXPPk",
+          "title": "AZ-400 Exam EP 31: Integration with Azure Pipelines",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:22​ ⏩ Anatomy Of A Pipeline\n00:39​​​ ⏩ Hello World\n01:51​​ ⏩ Name\n02:35​ ⏩ Triggers\n02:59 ⏩ Jobs\n04:23​​​ ⏩ Dependencies\n04:50 ⏩ Checkout\n05:01​​ ⏩ Download\n05:10 ⏩ Resources\n05:27​​ ⏩ Steps Are Taken\n05:51​ ⏩ Variables\n06:01​​​ ⏩ Pipeline Structure\n06:37​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=YBLI26SXPPk",
+          "thumbnail": "https://i.ytimg.com/vi/YBLI26SXPPk/hqdefault.jpg",
+          "duration": "7:03",
+          "uploadDate": "2021-02-04"
+        },
+        {
+          "id": "U2c7NqsSlhM",
+          "title": "AZ-400 Exam EP 32: Set Up Private Agents",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:21​ ⏩ Communication With Azure Pipelines\n00:53​​​ ⏩ Communication To Deploy To Target Servers\n01:39​​ ⏩ Other Considerations\n03:35​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=U2c7NqsSlhM",
+          "thumbnail": "https://i.ytimg.com/vi/U2c7NqsSlhM/hqdefault.jpg",
+          "duration": "4:00",
+          "uploadDate": "2021-02-04"
+        },
+        {
+          "id": "ljFxr4BrDII",
+          "title": "AZ-400 Exam EP 33: Module 05 Knowledge Check",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:22​ ⏩ Question 1\n00:59​​​ ⏩ Question 2\n01:20​​ ⏩ Question 3\n01:43​ ⏩ Question 4\n01:53 ⏩ Question 5\n02:08​​​ ⏩ Question 6\n02:34 ⏩ Question 7\n02:54​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=ljFxr4BrDII",
+          "thumbnail": "https://i.ytimg.com/vi/ljFxr4BrDII/hqdefault.jpg",
+          "duration": "3:20",
+          "uploadDate": "2021-02-04"
+        },
+        {
+          "id": "kaH778CJCGs",
+          "title": "AZ-400 Exam EP 34: Introduction to DevOps Security",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:22​ ⏩ Introduction To Security\n01:13​​​ ⏩ SQL Injection Attack\n02:28​​ ⏩ Threat Modeling\n03:34 ⏩ Key Validation Points\n04:24​​​ ⏩ Infrastructure Vulnerabilities\n05:20 ⏩ Application Development To Dev And Test\n05:47​​ ⏩ Results And Bugs\n06:16​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=kaH778CJCGs",
+          "thumbnail": "https://i.ytimg.com/vi/kaH778CJCGs/hqdefault.jpg",
+          "duration": "6:42",
+          "uploadDate": "2021-02-06"
+        },
+        {
+          "id": "xBOVd4jp0tw",
+          "title": "AZ-400 Exam EP 35: Application Configuration Data",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:22​ ⏩ Rethinking Application Config Data\n01:07​​​ ⏩ Separation Of Concerns\n02:49​​ ⏩ External Configuration Store Patterns\n03:42 ⏩ Integrating Azure Key Vault With Azure Pipeline\n04:31​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=xBOVd4jp0tw",
+          "thumbnail": "https://i.ytimg.com/vi/xBOVd4jp0tw/hqdefault.jpg",
+          "duration": "4:58",
+          "uploadDate": "2021-02-06"
+        },
+        {
+          "id": "LZef2KgQ9IU",
+          "title": "AZ-400 Exam EP 36: Manage Secrets, Tokens, & Certificates",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:23 ⏩ Azure Key Vault\n01:16​​​ ⏩ Why Use Azure Key Vault?\n03:27​​ ⏩ DevOps Inner And Outer Loop\n04:25​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=LZef2KgQ9IU",
+          "thumbnail": "https://i.ytimg.com/vi/LZef2KgQ9IU/hqdefault.jpg",
+          "duration": "4:50",
+          "uploadDate": "2021-02-06"
+        },
+        {
+          "id": "gmfHxZ9fMNk",
+          "title": "AZ-400 Exam EP 37: Module 06 Knowledge Check",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:22​ ⏩ Question 1\n00:47 ⏩ Question 2\n01:04​​ ⏩ Question 3\n01:21​ ⏩ Question 4\n02:00​​​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=gmfHxZ9fMNk",
+          "thumbnail": "https://i.ytimg.com/vi/gmfHxZ9fMNk/hqdefault.jpg",
+          "duration": "2:27",
+          "uploadDate": "2021-02-06"
+        },
+        {
+          "id": "PkYJ8hN4Wyo",
+          "title": "AZ-400 Exam EP 38: Code Quality and Security Policies",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:27​​​ ⏩ Code Quality Defined\n03:28​​​ ⏩ Quality Metrics\n03:51​​ ⏩ Common Quality-Related Metrics\n04:37 ⏩ Technical Debt Defined\n05:41 ⏩ Sources And Impacts Of Technical Debt\n06:31​​​ ⏩ Search In Azure DevOps\n06:43​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=PkYJ8hN4Wyo",
+          "thumbnail": "https://i.ytimg.com/vi/PkYJ8hN4Wyo/hqdefault.jpg",
+          "duration": "7:08",
+          "uploadDate": "2021-02-06"
+        },
+        {
+          "id": "aasta0lBP5c",
+          "title": "AZ-400 Exam EP 39: Module 07 Knowledge Check",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:20​​​ ⏩ Question 1\n00:45​​​ ⏩ Question 2\n01:09​​ ⏩ Question 3\n01:42​​​ ⏩ Question 4\n01:55​​​ ⏩ Question 5  \n02:15​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=aasta0lBP5c",
+          "thumbnail": "https://i.ytimg.com/vi/aasta0lBP5c/hqdefault.jpg",
+          "duration": "2:42",
+          "uploadDate": "2021-02-06"
+        },
+        {
+          "id": "nuRTIPIJU2c",
+          "title": "AZ-400 Exam EP 40: Container Build Strategy",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:22​​​ ⏩ Overview Of Containers\n01:54 ⏩ Virtual Machines\n02:22​​ ⏩ Container\n03:06​​​ ⏩ Docker Containers And Development\n03:59​​​ ⏩ Microservices And Containers\n04:38​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=nuRTIPIJU2c",
+          "thumbnail": "https://i.ytimg.com/vi/nuRTIPIJU2c/hqdefault.jpg",
+          "duration": "5:04",
+          "uploadDate": "2021-02-06"
+        },
+        {
+          "id": "bR6rqDl1D00",
+          "title": "AZ-400 Exam EP 41: Module 08 Knowledge Check",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:21​​​ ⏩ Question 1\n00:39​​​ ⏩ Question 2\n01:00 ⏩ Question 3\n01:14​​​ ⏩ Question 4\n01:29​​​ ⏩ Question 5\n01:44​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=bR6rqDl1D00",
+          "thumbnail": "https://i.ytimg.com/vi/bR6rqDl1D00/hqdefault.jpg",
+          "duration": "2:10",
+          "uploadDate": "2021-02-06"
+        },
+        {
+          "id": "BXJX1jwSHco",
+          "title": "AZ-400 Exam EP 42: Design a Release Strategy",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:23​​​ ⏩ Traditional IT\n02:13​​​ ⏩ Moving To Continuous Delivery\n03:22​​ ⏩ What Is Continuous Delivery?\n04:16​​​ ⏩ Releases And Deployments\n05:06​​​ ⏩ Release Process vs Release\n05:50​​​ ⏩ How To Measure Quality Of Your Release Process\n06:43​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=BXJX1jwSHco",
+          "thumbnail": "https://i.ytimg.com/vi/BXJX1jwSHco/hqdefault.jpg",
+          "duration": "7:07",
+          "uploadDate": "2021-02-06"
+        },
+        {
+          "id": "1g03yqfvwGQ",
+          "title": "AZ-400 Exam EP 43: Module 09 Knowledge Check",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:21​​​ ⏩ Question 1\n00:32​​​ ⏩ Question 2\n00:42​​ ⏩ Question 3\n00:54​​​ ⏩ Question 4\n01:06​​​ ⏩ Question 5\n01:19 ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=1g03yqfvwGQ",
+          "thumbnail": "https://i.ytimg.com/vi/1g03yqfvwGQ/hqdefault.jpg",
+          "duration": "1:47",
+          "uploadDate": "2021-02-06"
+        },
+        {
+          "id": "Nyu9bCcmlCo",
+          "title": "AZ-400 Exam EP 44: 3rd Party IaC Tools with Azure",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:27​​​ ⏩ Chef\n01:49​​​ ⏩ Chef Automate\n02:08​​ ⏩ Chef Cookbooks\n02:41​​​ ⏩ Puppet\n03:27 ⏩ Deploying Puppet In Azure\n03:53​​​ ⏩ Manifest Files\n04:25​​​ ⏩ Ansible\n05:11​​ ⏩ Ansible Components\n05:55 ⏩ Terraform\n06:48​​ ⏩ Terra Components\n07:17​ ⏩ What's Next\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=Nyu9bCcmlCo",
+          "thumbnail": "https://i.ytimg.com/vi/Nyu9bCcmlCo/hqdefault.jpg",
+          "duration": "7:43",
+          "uploadDate": "2021-02-06"
+        },
+        {
+          "id": "ASMYC6ZYu3A",
+          "title": "AZ-400 Exam EP 45: Module 10 Knowledge Check",
+          "description": "💙 http://susanth.bio.link\n🎗 Buy me a coffee: https://ko-fi.com/aguidetocloud\n🧲 Additional Resources: https://www.aguidetocloud.com/\n\n⏰ Timestamps:\n\n00:00​​​ ⏩ Introduction\n00:22​​​ ⏩ Question 1\n00:36​​​ ⏩ Question 2\n00:53​​ ⏩ Question 3\n01:03​​​ ⏩ Question 4\n01:18​​​ ⏩ Question 5\n01:30​​​ ⏩ Question 6\n01:42 ⏩ Question 7\n02:00​​ ⏩ Question 8\n02:09 ⏩ Question 9\n02:23​ ⏩ End Of The Course\n\n#AGuideToCloud #AZ400 #MicrosoftAzureDevOps #Exam #Certifications #Microsoft",
+          "url": "https://www.youtube.com/watch?v=ASMYC6ZYu3A",
+          "thumbnail": "https://i.ytimg.com/vi/ASMYC6ZYu3A/hqdefault.jpg",
+          "duration": "3:03",
+          "uploadDate": "2021-02-06"
+        }
+      ],
+      "tags": [],
+      "created": "2025-03-23",
+      "lastUpdated": "2025-03-23"
     }
   ]
 }
